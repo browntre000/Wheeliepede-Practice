@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Wheeliepede-Practice.iml" filepath="$PROJECT_DIR$/Wheeliepede-Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Wheeliepede-Practice_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Wheeliepede-Practice_main.iml" group="Wheeliepede-Practice" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Wheeliepede-Practice_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Wheeliepede-Practice_test.iml" group="Wheeliepede-Practice" />
+    </modules>
+  </component>
+</project>
